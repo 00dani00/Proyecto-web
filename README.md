@@ -13,4 +13,5 @@ Instalación:
 
 5) Ejecutar el servidor <b>npm start</b>
 
-6) Ver en el navegador el proyecto, por lo general la url es: <b>http://localhost:3000/</b>
+6) Ver en el navegador el proyecto, las url son: <b>http://localhost:3000/movie</b>
+<b>http://localhost:3000/actor</b>
